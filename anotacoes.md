@@ -20,4 +20,12 @@
    VSCode
    Node.JS
    Google Chrome
+   
+## Aula 4 - Primeiro script em JavaScript
+ - Criação de um Hello World e demonstração de uns comandos básicos.
+ 
+## Aula 5 - Variáveis e tipos primitivos
+ - Demonstração das variáveis do JavaScript, focando em number, string e boolean
+ 
+ 
  
