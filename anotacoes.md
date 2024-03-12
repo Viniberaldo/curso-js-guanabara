@@ -27,5 +27,8 @@
 ## Aula 5 - Variáveis e tipos primitivos
  - Demonstração das variáveis do JavaScript, focando em number, string e boolean
  
- 
- 
+## Aula 6 - Tratamento de dados
+ - Mudanças de tipo, de string para inteiro e real e vice-versa.
+ - Template String: começar a linha com crase e utilizar ${variavel} para evitar
+ concatenação com símbolo +.
+ - Formatação de strings e número.
