@@ -32,3 +32,7 @@
  - Template String: começar a linha com crase e utilizar ${variavel} para evitar
  concatenação com símbolo +.
  - Formatação de strings e número.
+ 
+## Aula 7 - Operadores no JavaScript
+ - Apresentação dos operadores matemáticos, destaque pro operador ** que é a
+   potência.
