@@ -36,3 +36,7 @@
 ## Aula 7 - Operadores no JavaScript
  - Apresentação dos operadores matemáticos, destaque pro operador ** que é a
    potência.
+   
+## Aula 8 - Operadores no JavaScript (pt. 2)
+ - Apresentação dos operadores relacionais do JavaScript. Operador de identidade
+ '= = =' testa o tamanho e o tipo da variável.
