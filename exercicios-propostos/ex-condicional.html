@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <label for="nacionalidade">Nacionalidade:</label>
+    <input type="text" name="nacionalidade" id="nacionalidade">
+    <button id="btn">Verificar</button>
+    <div id="resultado">
+
+    </div>
+</body>
+<script>
+    var gentilico = window.document.getElementById('nacionalidade')
+    var btn = window.document.getElementById('btn')
+    var div = window.document.getElementById('resultado')
+    btn.addEventListener('mousedown', verificar)
+
+    function verificar() {
+        if (gentilico.value == "brasileiro") {
+            div.innerText = "Você é brasileiro"
+        }
+        else {
+            div.innerText = "Você é estrangeiro"
+        }
+    }
+
+</script>
+
+</html>
